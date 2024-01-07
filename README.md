@@ -20,9 +20,11 @@
 >> Back-end
 >> - nest.js
 >> - Postgresql, nestjs jwt, typeOrm 등
+>> 
 >> [백엔드 설명](https://github.com/Jungsooooooo/todolist_back_nest)
 >>
 >> Front-end
 >> - React.ts
+>> 
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
 
