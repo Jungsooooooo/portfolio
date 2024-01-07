@@ -1,5 +1,7 @@
 # portfolio
 
+# 김정수의 포트폴리오
+
 #  🎨 Intro 
 
 안녕하세요. 개발자로 일하고 있는 김정수입니다.
@@ -17,3 +19,10 @@
 > 
 >> Back-end
 >> - nest.js
+>> - Postgresql, nestjs jwt, typeOrm 등
+>> [백엔드 설명](https://github.com/Jungsooooooo/todolist_back_nest)
+>>
+>> Front-end
+>> - React.ts
+>> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
+
