@@ -9,6 +9,7 @@
 그런 것들을 기록하기 위해 이 repository를 만들었습니다.
 
 
+
 # 💻 Projects
 
 ## 1. TodoList
@@ -43,3 +44,6 @@
 >> - Vue-bootstrap 사용
 >>
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
+
+## 블로그 주소 
+> https://velog.io/@jungsu0505/posts
