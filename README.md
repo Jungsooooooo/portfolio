@@ -23,6 +23,23 @@
 >>
 >> Front-end
 >> - React.ts
+>> - ant design 사용
 >> 
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
 
+
+## 2.  Daily_Writing(진행중)
+
+> 일기를 쓰기 위해 만든 프로젝트
+>
+>> Back-end
+>> - java Spring(Jpa, gradle)
+>> - mysql, Linux, Nginx, Docker 사용
+>>
+>> [백엔드 설명](https://github.com/Jungsooooooo/Daily_Writing)
+>>
+>> Front-end
+>> - Vue.js
+>> - Vue-bootstrap 사용
+>>
+>> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
