@@ -12,7 +12,7 @@
 
 # 💻 Projects
 
-## 1. TodoList
+## 📕 1. TodoList
 
 > 날마다 할 일을 적어놓고 기억하기 위해 만든 프로젝트
 > 
@@ -29,7 +29,7 @@
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
 
 
-## 2.  Daily_Writing(진행중)
+## 📘 2.  Daily_Writing(진행중)
 
 > 일기를 쓰기 위해 만든 프로젝트
 >
@@ -45,7 +45,7 @@
 >>
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
 
-## 3. 쇼핑몰 Admin
+## 📗 3. 쇼핑몰 Admin
 > 쇼핑몰 admin 페이지 개발
 >
 >> Back-end
