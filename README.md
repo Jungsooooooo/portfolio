@@ -37,13 +37,29 @@
 >> - java Spring(Jpa, gradle)
 >> - mysql, Linux, Nginx, Docker 사용
 >>
->> [백엔드 설명](https://github.com/Jungsooooooo/Daily_Writing)
+>> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
 >>
 >> Front-end
 >> - Vue.js
 >> - Vue-bootstrap 사용
 >>
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
+
+## 3. 쇼핑몰 Admin
+> 쇼핑몰 admin 페이지 개발
+>
+>> Back-end
+>> - java Spring(Jpa, gradle)
+>> - postgresql
+>>
+>> [백엔드 설명]
+>>
+>> Front-end
+>> - React.js
+>> - React-bootstrap 사용
+>>
+>> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
+
 
 ## 블로그 주소 
 > https://velog.io/@jungsu0505/posts
