@@ -37,7 +37,7 @@
 >> - java Spring(Jpa, gradle)
 >> - mysql, Linux, Nginx, Docker 사용
 >>
->> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
+>> [백엔드 설명](https://github.com/Jungsooooooo/Daily_Writing)
 >>
 >> Front-end
 >> - Vue.js
@@ -52,7 +52,7 @@
 >> - java Spring(Jpa, gradle)
 >> - postgresql
 >>
->> [백엔드 설명]
+>> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
 >>
 >> Front-end
 >> - React.js
