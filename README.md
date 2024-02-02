@@ -29,7 +29,7 @@
 >> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
 
 
-## 📘 2.  Daily_Writing(진행중)
+## 📘 2.  Daily_Writing
 
 > 일기를 쓰기 위해 만든 프로젝트
 >
