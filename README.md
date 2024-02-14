@@ -60,6 +60,3 @@
 >>
 >> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
 
-
-## 블로그 주소 
-> https://velog.io/@jungsu0505/posts
