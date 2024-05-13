@@ -59,4 +59,6 @@
 >> - React-bootstrap 사용
 >>
 >> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
-
+## 4. JWT Token 및 WebSocket 테스트
+> spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용.
+> WebSocket으로 간단한 채팅 테스트트
