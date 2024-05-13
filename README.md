@@ -37,32 +37,40 @@
 
 > 일기를 쓰기 위해 만든 프로젝트
 >
->> Back-end
->> - java Spring(Jpa, gradle)
->> - mysql, Linux, Nginx, Docker 사용
->>
->> [백엔드 설명](https://github.com/Jungsooooooo/Daily_Writing)
->>
->> Front-end
->> - Vue.js
->> - Vue-bootstrap 사용
->>
->> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
+> Back-end
+> 
+> - java Spring(Jpa, gradle)
+>   
+> - mysql, Linux, Nginx, Docker 사용
+>
+> [백엔드 설명](https://github.com/Jungsooooooo/Daily_Writing)
+>
+> Front-end
+> 
+> Vue.js
+> 
+> Vue-bootstrap 사용
+>
+> [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
 
 ## 📗 3. 쇼핑몰 Admin
 > 쇼핑몰 admin 페이지 개발
 >
->> Back-end
->> - java Spring(Jpa, gradle)
->> - postgresql
->>
->> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
->>
->> Front-end
->> - React.js
->> - React-bootstrap 사용
->>
->> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
+> Back-end
+> 
+> - java Spring(Jpa, gradle)
+>   
+> - postgresql
+>
+> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
+>
+> Front-end
+> 
+> - React.js
+> - 
+> - React-bootstrap 사용
+>
+> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
 ## 4. JWT Token 및 WebSocket 테스트
 > spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용.
 >
