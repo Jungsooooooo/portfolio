@@ -16,17 +16,21 @@
 
 > 날마다 할 일을 적어놓고 기억하기 위해 만든 프로젝트
 > 
->> Back-end
->> - nest.js
->> - Postgresql, nestjs jwt, typeOrm 등
->> 
->> [백엔드 설명](https://github.com/Jungsooooooo/todolist_back_nest)
->>
->> Front-end
->> - React.ts
->> - ant design 사용
->> 
->> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
+> Back-end
+> 
+> - nest.js
+>   
+> - Postgresql, nestjs jwt, typeOrm 등
+> 
+> [백엔드 설명](https://github.com/Jungsooooooo/todolist_back_nest)
+>
+> Front-end
+> 
+> - React.ts
+>   
+> - ant design 사용
+> 
+> [프론트 엔드 설명](https://github.com/Jungsooooooo/todolist_front_react_typescript)
 
 
 ## 📘 2.  Daily_Writing
