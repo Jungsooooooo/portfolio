@@ -67,7 +67,7 @@
 > Front-end
 > 
 > - React.js
-> - 
+>   
 > - React-bootstrap 사용
 >
 > [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
