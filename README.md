@@ -72,18 +72,8 @@
 >
 > [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
 ## 4. JWT Token 및 WebSocket 테스트
-> spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용.
+> spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용 및 WebSocket으로 간단한 채팅 테스트.
 >
->1. https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket/config/SecurityConfig.java
+> [백엔드 설명](https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket)
 >
->2. https://github.com/Jungsooooooo/mafiawebsocket/tree/master/src/main/java/org/example/mafiawebsocket/token
->
->3. https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket/user/controller/AuthController.java
->
-> WebSocket으로 간단한 채팅 테스트
->
-> 1. https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket/websocket/handler/WebSocketHandler.java
->
-> 2. https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket/websocket/server/WebSocketServer.java
->
-> 3. https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket/websocket/config/WebConfig.java
+
