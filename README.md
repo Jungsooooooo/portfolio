@@ -75,5 +75,19 @@
 > spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용 및 WebSocket으로 간단한 채팅 테스트.
 >
 > [프로젝트 레포지토리 이동](https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket)
+
+## :sunny: 5. 날씨 웹 및 앱
+> 날씨 웹 사이트 개발
 >
+> 외부 API를 써서 프론트엔드 중심으로 프로젝트를 진행하고 싶어 개발
+>
+> 기상청 API를 사용하였고, 개발과정을 Notion으로 정리예정(Notion 사용해본 적 x)
+>
+> AWS배포 예정이며 웹과 앱에서 사용할 수 있게 mediaQuery 사용
+>
+> Front -end
+>
+> - React.js
+>
+> [프로젝트 레포지토리 이동](https://github.com/Jungsooooooo/cyweb) 
 
