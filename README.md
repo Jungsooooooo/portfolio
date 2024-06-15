@@ -81,7 +81,9 @@
 >
 > 외부 API를 써서 프론트엔드 중심으로 프로젝트를 진행하고 싶어 개발
 >
-> 기상청 API를 사용하였고, 개발과정을 Notion으로 정리예정(Notion 사용해본 적 x)
+> 기상청 API를 사용하였고, 개발과정을 Notion으로 정리 중
+>
+>[notion](https://www.notion.so/98be57a121654925a638f4dc21816eea)
 >
 > AWS배포 예정이며 웹과 앱에서 사용할 수 있게 mediaQuery 사용
 >
