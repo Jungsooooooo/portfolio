@@ -53,30 +53,12 @@
 >
 > [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
 
-## 📗 3. 쇼핑몰 Admin
-> 쇼핑몰 admin 페이지 개발
->
-> Back-end
-> 
-> - java Spring(Jpa, gradle)
->   
-> - postgresql
->
-> [백엔드 설명](https://github.com/Jungsooooooo/shoppingMall_Back)
->
-> Front-end
-> 
-> - React.js
->   
-> - React-bootstrap 사용
->
-> [프론트 설명](https://github.com/Jungsooooooo/ShoppingMall_front)
-## 4. JWT Token 및 WebSocket 테스트
+## 3. JWT Token 및 WebSocket 테스트
 > spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용 및 WebSocket으로 간단한 채팅 테스트.
 >
 > [프로젝트 레포지토리 이동](https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket)
 
-## :sunny: 5. 날씨 웹 및 앱
+## :sunny: 4. 날씨 웹 및 앱
 > 날씨 웹 사이트 개발
 >
 > 외부 API를 써서 프론트엔드 중심으로 프로젝트를 진행하고 싶어 개발
