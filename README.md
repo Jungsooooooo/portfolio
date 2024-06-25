@@ -53,7 +53,7 @@
 >
 > [프론트 엔드 설명](https://github.com/Jungsooooooo/Daily_Writing_Front)
 
-## 3. JWT Token 및 WebSocket 테스트
+## 🎨 3. JWT Token 및 WebSocket 테스트
 > spring boot 3.0 버전 업으로 인한 JWT Token + spring security 사용 및 WebSocket으로 간단한 채팅 테스트.
 >
 > [프로젝트 레포지토리 이동](https://github.com/Jungsooooooo/mafiawebsocket/blob/master/src/main/java/org/example/mafiawebsocket)
