@@ -85,7 +85,9 @@
 >
 >[notion](https://www.notion.so/98be57a121654925a638f4dc21816eea)
 >
-> AWS배포 예정이며 웹과 앱에서 사용할 수 있게 mediaQuery 사용
+>웹과 앱에서 사용할 수 있게 mediaQuery 사용
+>
+> [gihubPage배포](https://jungsooooooo.github.io/cyweb/)
 >
 > Front -end
 >
